@@ -1,0 +1,22 @@
+{
+  "name": "cmdb",
+  "version": "1.0.0",
+  "description": "replica of the IPW project",
+  "main": "server.mjs",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EdGein/CMDB.git"
+  },
+  "author": "Rafael Martins",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EdGein/CMDB/issues"
+  },
+  "homepage": "https://github.com/EdGein/CMDB#readme"
+}
